@@ -14,4 +14,4 @@ ____
 
 ____
 
-*Посмотреть работу можно по ссылке * :+1:
+*Посмотреть работу можно по ссылке https://sergey-denisenko.github.io/mondrian-composition/* :+1:
