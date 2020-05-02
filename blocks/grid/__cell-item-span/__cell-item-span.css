@@ -1,0 +1,16 @@
+.grid__cell-item-span {
+  margin: auto auto 5px;
+  font-family: 'Noto Sans', sans-serif;
+  text-rendering: auto;
+  -webkit-font-smoothing: auto;
+  color: #fff;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 16px;
+}
+
+@media all and (max-width: 500px) {
+  .grid__cell-item-span {
+    font-size: 11px;
+    line-height: 13px;  }
+}

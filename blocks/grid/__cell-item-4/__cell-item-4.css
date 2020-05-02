@@ -1,0 +1,7 @@
+.grid__cell-item-4 {
+  grid-column-start: 31;
+  grid-column-end: 33;
+  grid-row-start: 1;
+  grid-row-end: 25;
+  background-color: #d2d3dd;
+}

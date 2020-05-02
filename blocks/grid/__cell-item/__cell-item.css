@@ -1,0 +1,7 @@
+.grid__cell-item:hover {
+  cursor: pointer;
+}
+
+.grid__cell-item:active .grid__cell-item-link {
+display: flex;
+}

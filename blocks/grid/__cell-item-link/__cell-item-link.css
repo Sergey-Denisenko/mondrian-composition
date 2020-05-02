@@ -1,0 +1,18 @@
+.grid__cell-item-link {
+  display: none;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+  transition: all 0.5s linear 0s;
+  text-align: center;
+  text-decoration: none;
+}
+
+.grid__cell-item-link:hover {
+  display: flex;
+  flex-direction: column;
+  transform: scale(1.35);
+}

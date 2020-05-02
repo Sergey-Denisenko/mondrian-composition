@@ -1,0 +1,10 @@
+.body-styles {
+  margin: auto;
+  padding: 0;
+  width: 99vw;
+  height: 99vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #000;
+}

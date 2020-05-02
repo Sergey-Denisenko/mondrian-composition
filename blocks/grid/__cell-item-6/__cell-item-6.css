@@ -1,0 +1,7 @@
+.grid__cell-item-6 {
+  grid-column-start: 5;
+  grid-column-end: 21;
+  grid-row-start: 5;
+  grid-row-end: 21;
+  background-image: radial-gradient(#e03e24, #d3422a);
+}
